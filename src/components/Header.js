@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 export default function Header() {
   return (
@@ -8,7 +8,7 @@ export default function Header() {
       <li className="navbar-brand"> Movies
       </li>  
       <li className="nav-item">
-        <button  type="button" className="btn btn-primary">Add</button>
+            <button  type="button" className="btn btn-primary">Add</button>
       </li> 
       </ul>
     </div>
